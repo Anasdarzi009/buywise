@@ -16,6 +16,7 @@ const AffiliateDisclosurePage = lazy(() => import('./pages/AffiliateDisclosurePa
 const PrivacyPolicyPage = lazy(() => import('./pages/PrivacyPolicyPage'));
 const TermsPage = lazy(() => import('./pages/TermsPage'));
 const NotFoundPage = lazy(() => import('./pages/NotFoundPage'));
+const BlackDeckerReviewPage = lazy(() => import('./pages/BlackDeckerReviewPage'));
 
 // Lightweight, accessible loading fallback
 function PageFallback() {
@@ -47,6 +48,22 @@ export default function App() {
             element={
               <Suspense fallback={<PageFallback />}>
                 <CategoryPage />
+              </Suspense>
+            }
+          />
+          <Route
+            path="reviews/black-decker-cm1160b-review"
+            element={
+              <Suspense fallback={<PageFallback />}>
+                <BlackDeckerReviewPage />
+              </Suspense>
+            }
+          />
+          <Route
+            path="review/black-decker-cm1160b-review"
+            element={
+              <Suspense fallback={<PageFallback />}>
+                <BlackDeckerReviewPage />
               </Suspense>
             }
           />
