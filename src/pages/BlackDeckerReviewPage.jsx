@@ -67,7 +67,7 @@ export default function BlackDeckerReviewPage() {
   const [openFaqIndex, setOpenFaqIndex] = useState(null);
 
   useEffect(() => {
-    const siteUrl = import.meta.env.VITE_SITE_URL || 'https://buywise.reviews';
+    const siteUrl = import.meta.env.VITE_SITE_URL || 'https://buywisehub.netlify.app';
     const canonicalUrl = `${siteUrl}/reviews/black-decker-cm1160b-review`;
     const imageUrl = `${siteUrl}/images/black-decker-cm1160b.jpg`;
 

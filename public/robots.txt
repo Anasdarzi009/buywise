@@ -4,4 +4,4 @@ Allow: /
 # Disallow search query parameter results to avoid duplicate search result indexing
 Disallow: /search?*
 
-Sitemap: https://buywise.reviews/sitemap.xml
+Sitemap: https://buywisehub.netlify.app/sitemap.xml

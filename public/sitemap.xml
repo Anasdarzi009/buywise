@@ -2,223 +2,223 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Core Static Pages -->
   <url>
-    <loc>https://buywise.reviews/</loc>
+    <loc>https://buywisehub.netlify.app/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/deals</loc>
+    <loc>https://buywisehub.netlify.app/deals</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/about</loc>
+    <loc>https://buywisehub.netlify.app/about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/contact</loc>
+    <loc>https://buywisehub.netlify.app/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/affiliate-disclosure</loc>
+    <loc>https://buywisehub.netlify.app/affiliate-disclosure</loc>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/privacy-policy</loc>
+    <loc>https://buywisehub.netlify.app/privacy-policy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/terms</loc>
+    <loc>https://buywisehub.netlify.app/terms</loc>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
 
   <!-- Categories -->
   <url>
-    <loc>https://buywise.reviews/category/laptops</loc>
+    <loc>https://buywisehub.netlify.app/category/laptops</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/category/smartphones</loc>
+    <loc>https://buywisehub.netlify.app/category/smartphones</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/category/earbuds</loc>
+    <loc>https://buywisehub.netlify.app/category/earbuds</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/category/headphones</loc>
+    <loc>https://buywisehub.netlify.app/category/headphones</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/category/monitors</loc>
+    <loc>https://buywisehub.netlify.app/category/monitors</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/category/keyboards</loc>
+    <loc>https://buywisehub.netlify.app/category/keyboards</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/category/mice</loc>
+    <loc>https://buywisehub.netlify.app/category/mice</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/category/smartwatches</loc>
+    <loc>https://buywisehub.netlify.app/category/smartwatches</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/category/power-banks</loc>
+    <loc>https://buywisehub.netlify.app/category/power-banks</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/category/gaming</loc>
+    <loc>https://buywisehub.netlify.app/category/gaming</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/category/home-kitchen</loc>
+    <loc>https://buywisehub.netlify.app/category/home-kitchen</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/category/college-essentials</loc>
+    <loc>https://buywisehub.netlify.app/category/college-essentials</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <!-- Buying Guides -->
   <url>
-    <loc>https://buywise.reviews/guides/best-laptops-for-college-students</loc>
+    <loc>https://buywisehub.netlify.app/guides/best-laptops-for-college-students</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/guides/best-wireless-earbuds-under-2000</loc>
+    <loc>https://buywisehub.netlify.app/guides/best-wireless-earbuds-under-2000</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/guides/best-monitors-for-programming</loc>
+    <loc>https://buywisehub.netlify.app/guides/best-monitors-for-programming</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/guides/best-gaming-mouse-for-beginners</loc>
+    <loc>https://buywisehub.netlify.app/guides/best-gaming-mouse-for-beginners</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/guides/best-power-banks-for-travel</loc>
+    <loc>https://buywisehub.netlify.app/guides/best-power-banks-for-travel</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/guides/best-mechanical-keyboards-for-coding</loc>
+    <loc>https://buywisehub.netlify.app/guides/best-mechanical-keyboards-for-coding</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Product Reviews -->
   <url>
-    <loc>https://buywise.reviews/review/apple-macbook-air-m2</loc>
+    <loc>https://buywisehub.netlify.app/review/apple-macbook-air-m2</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/review/asus-vivobook-15-intel-i5</loc>
+    <loc>https://buywisehub.netlify.app/review/asus-vivobook-15-intel-i5</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/review/lenovo-ideapad-slim-3-ryzen-5</loc>
+    <loc>https://buywisehub.netlify.app/review/lenovo-ideapad-slim-3-ryzen-5</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/review/oneplus-buds-3-tws</loc>
+    <loc>https://buywisehub.netlify.app/review/oneplus-buds-3-tws</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/review/realme-buds-air-6</loc>
+    <loc>https://buywisehub.netlify.app/review/realme-buds-air-6</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/review/boat-airdopes-141-anc</loc>
+    <loc>https://buywisehub.netlify.app/review/boat-airdopes-141-anc</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/review/dell-27-4k-uhd-usb-c-monitor</loc>
+    <loc>https://buywisehub.netlify.app/review/dell-27-4k-uhd-usb-c-monitor</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/review/lg-27mr400-b-27-inch-fhd-ips</loc>
+    <loc>https://buywisehub.netlify.app/review/lg-27mr400-b-27-inch-fhd-ips</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/review/keychron-k2-v2-wireless-mechanical-keyboard</loc>
+    <loc>https://buywisehub.netlify.app/review/keychron-k2-v2-wireless-mechanical-keyboard</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/review/logitech-mx-keys-s</loc>
+    <loc>https://buywisehub.netlify.app/review/logitech-mx-keys-s</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/review/logitech-mx-master-3s</loc>
+    <loc>https://buywisehub.netlify.app/review/logitech-mx-master-3s</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/review/razer-deathadder-essential</loc>
+    <loc>https://buywisehub.netlify.app/review/razer-deathadder-essential</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/review/anker-737-power-bank-24k-140w</loc>
+    <loc>https://buywisehub.netlify.app/review/anker-737-power-bank-24k-140w</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/review/mi-power-bank-3i-20000mah</loc>
+    <loc>https://buywisehub.netlify.app/review/mi-power-bank-3i-20000mah</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/review/oneplus-nord-ce4-5g</loc>
+    <loc>https://buywisehub.netlify.app/review/oneplus-nord-ce4-5g</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/review/redmi-note-13-5g</loc>
+    <loc>https://buywisehub.netlify.app/review/redmi-note-13-5g</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/review/amazfit-gts-4-mini</loc>
+    <loc>https://buywisehub.netlify.app/review/amazfit-gts-4-mini</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://buywise.reviews/reviews/black-decker-cm1160b-review</loc>
+    <loc>https://buywisehub.netlify.app/reviews/black-decker-cm1160b-review</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

@@ -38,6 +38,30 @@ export function updateSEO({
   let ogTypeEl = document.querySelector('meta[property="og:type"]');
   if (ogTypeEl) ogTypeEl.content = ogType;
 
+  // Open Graph Image
+  let ogImageEl = document.querySelector('meta[property="og:image"]');
+  if (ogImage) {
+    if (!ogImageEl) {
+      ogImageEl = document.createElement('meta');
+      ogImageEl.setAttribute('property', 'og:image');
+      document.head.appendChild(ogImageEl);
+    }
+    ogImageEl.content = ogImage.startsWith('http') ? ogImage : `${getCanonicalBase()}${ogImage.startsWith('/') ? ogImage : '/' + ogImage}`;
+  }
+
+  // Open Graph URL
+  let ogUrlEl = document.querySelector('meta[property="og:url"]');
+  if (canonicalUrl) {
+    if (!ogUrlEl) {
+      ogUrlEl = document.createElement('meta');
+      ogUrlEl.setAttribute('property', 'og:url');
+      document.head.appendChild(ogUrlEl);
+    }
+    ogUrlEl.content = canonicalUrl;
+  } else if (ogUrlEl) {
+    ogUrlEl.remove();
+  }
+
   // Canonical Link
   let canonicalEl = document.querySelector('link[rel="canonical"]');
   if (canonicalUrl) {
@@ -66,7 +90,7 @@ export function updateSEO({
   }
 }
 
-const SITE_URL = import.meta.env.VITE_SITE_URL || 'https://buywise.reviews';
+const SITE_URL = import.meta.env.VITE_SITE_URL || 'https://buywisehub.netlify.app';
 
 function getCanonicalBase() {
   if (typeof window === 'undefined') return SITE_URL;
